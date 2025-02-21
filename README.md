@@ -14,9 +14,6 @@
 
 
 
-# 💫 About Me:
-🌟 MERN Stack Developer | Passionate Learner | Tech Enthusiast<br>💼 Intern at Bridgeon | Strong in JavaScript, ReactJS, HTML, CSS<br>🚀 Current Focus: Cloning X (formerly Twitter)<br>🎨 Hobbies: Drawing , exploring music, and coding!<br>
-
 ### ✍️ Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
