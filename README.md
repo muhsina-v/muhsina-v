@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm muhsina</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **react**
+- 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **redux**
+- 🌱 I’m currently learning **backend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
