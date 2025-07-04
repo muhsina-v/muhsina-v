@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm muhsina</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **live project**
 
 <h3 align="left">Connect with me in linkedin: https://www.linkedin.com/in/muhsina-v-70376231b/</h3>
 <p align="left">
