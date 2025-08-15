@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **live project**
+- 🌱 I’m currently learning **Team project**
 
 <h3 align="left">Connect with me in linkedin: https://www.linkedin.com/in/muhsina/</h3>
 <p align="left">
