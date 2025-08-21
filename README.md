@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Team project**
 
-<h3 align="left">Connect with me in linkedin: https://www.linkedin.com/in/muhsina/</h3>
+<h3 align="left">Connect with me in linkedin : https://www.linkedin.com/in/muhsina/ </h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools i have :</h3>
